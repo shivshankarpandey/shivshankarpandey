@@ -1,4 +1,4 @@
-<img alt="This may contain: an image of a computer screen with data in the middle and blue lines on it" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/2c/85/cc/2c85ccf9ea65e0fa1441a3ecaaae0c8a.gif">
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hello🙋🏻, I'm Shivshankar Pandey</h1>
 <h3 align="center">Indian Web Developer | Building the Future of the Web</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
