@@ -19,7 +19,7 @@
 <a href="https://twitter.com/@shivshankar7086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shivshankar7086" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivshankarpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivshankarpandey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22430708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22430708" height="30" width="40" /></a>
-<a href="https://instagram.com/programing_7086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programing_7086" height="30" width="40" /></a>
+<a href="https://instagram.com/programing_910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programing_910" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
